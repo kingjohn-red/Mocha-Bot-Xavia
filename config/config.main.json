@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "PUT YOUR UID HERE"
+        "100086928967994"
     ],
     "ABSOLUTES": [
-        "PUT YOUR UID HERE"
+        "100086928967994"
     ],
-    "NAME": "𝙼𝚘𝚌𝚑𝚊 𝙰𝚒",
-    "PREFIX": "-",
+    "NAME": "kuze ai",
+    "PREFIX": "@",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
